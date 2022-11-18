@@ -1,2 +1,2 @@
 # Splitwise-cashflow-minimization
-A basic project based on splitwise algorithm.
+A basic project based on heaps. 
